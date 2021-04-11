@@ -1,0 +1,1 @@
+# ¿Es cuadrado o un rectángulo o es primo?
